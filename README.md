@@ -1,8 +1,10 @@
-## SO-Final
+### SO-Final
 
-# Problema del barbero durmiente
+## Problema del barbero durmiente
+# link explicacion youtube: https://www.youtube.com/watch?v=LnEufJhSRKc
 
 fuentes:
+
 http://algoritmobarbero.blogspot.com/2016/05/problema-del-barbero-durmiente-en.html
 https://www.youtube.com/watch?v=aEpHECPVSFw
 https://github.com/wilsonv244/BarberoDormilon/blob/master/barberoDormilon.cpp
